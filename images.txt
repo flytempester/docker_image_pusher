@@ -1,1 +1,4 @@
 node:21.7.3-alpine
+vesoft/nebula-graphd:v3.8.0
+vesoft/nebula-storaged:v3.8.0
+vesoft/nebula-metad:v3.8.0
